@@ -1,4 +1,4 @@
 Git is a 3333 system.
-Git is free software.
+I resolve one bug issue-101
 Git i dev no-ff
 Git a new branch is quick & simple
